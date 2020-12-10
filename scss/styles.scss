@@ -34,19 +34,20 @@
 */
 
 // Define base and accent colors
-$base-color: #3498db;
+$base-color:#000000;// #3498db;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #fff;
-$background-alt: #f2f2f5;
+$background: #000000;//#fff;
+$background-alt: #000000;//#f2f2f5;
+$background-gold: #ba9d00;
 
 // Define border colors
 $border: #dcd9d9;
 
 // Define text colors
-$heading: #374054;
-$text: #74808a;
+$heading: #dcd9d9;//#374054;
+$text:  #f2f2f5;//#74808a;
 
 /*
     ---------------------
@@ -198,6 +199,7 @@ header {
     &.active {
         display: block;
     }
+    background: lighten($background, 8)
 }
 
 #mobile-menu-open {
@@ -206,7 +208,7 @@ header {
     position: fixed;
     right: 15px;
     top: 10px;
-    color: $base-color;
+    color: $background;
     font-size: 1.5em;
     z-index: 20;
     padding: 0 7px;
@@ -223,7 +225,7 @@ header {
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: $base-color;
+    color:  $background;
 
     span {
         font-size: 0.5em;
@@ -237,6 +239,8 @@ header {
 
 footer {
     padding: 50px 0;
+    background: $background;
+
 }
 
 .copyright {
@@ -350,7 +354,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/background.png);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
@@ -448,6 +452,7 @@ footer {
 #about {
     padding: 75px 15px;
     border-bottom: 1px solid $border;
+    background: lighten($base-color,0.2); ////////////////
 
     h2 {
         color: $heading;
@@ -507,7 +512,7 @@ footer {
 
 .vtimeline-content {
     margin-left: 350px;
-    background: #fff;
+    background:  lighten($base-color,0.2);// #fff;
     border: 1px solid #e6e6e6;
     padding: 15px;
     border-radius: 3px;
@@ -524,7 +529,7 @@ footer {
     h4 {
         font-size: 1.2em;
         font-weight: 300;
-        color: #7e8890;
+        color:  #7e8890;
         margin: 0 0 15px 0;
     }
 
@@ -567,7 +572,7 @@ footer {
     left: 0;
     top: 10px;
     font-weight: 300;
-    color: #374054;
+    color:#e6e6e6;// #374054;
 }
 
 /*
@@ -580,6 +585,7 @@ footer {
     padding: 50px 15px 20px 15px;
     border-bottom: 1px solid $border;
     text-align: center;
+    background:  lighten($base-color,0.2);
 
     h2 {
         color: $heading;
@@ -697,6 +703,7 @@ footer {
 #skills {
     padding: 50px 15px;
     text-align: center;
+    background: $base-color;
 
     h2 {
         color: $heading;
@@ -714,8 +721,8 @@ footer {
         display: inline-block;
         margin: 7px;
         padding: 5px 10px;
-        color: $heading;
-        background: darken($background-alt, 5%);
+        color: $base-color;
+        background:#e6e6e6;
         list-style: none;
         cursor: default;
         font-size: 1.2em;

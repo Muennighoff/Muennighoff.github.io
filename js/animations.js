@@ -1,5 +1,5 @@
 function changeSection(section){
-	let possible = ["bio", "hiring", "publications"];
+	let possible = ["bio", "hiring"];
 	// SECTION
 	for (i=0;i<possible.length;i++){
 		document.getElementById(possible[i]).style.display = "none";

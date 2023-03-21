@@ -21,8 +21,6 @@ Feel free to reach out :)
 
 <!-- News
 ======
-- May 2021: Incredibly honored to have been selected as a [Knights-Hennessy Scholar](https://knight-hennessy.stanford.edu/).
-- April 2021: I will be starting my PhD at Stanford University in September 2021.
-- September 2020: Just finished my Facebook AI residency. Next up: internship at Vector Institute for one year.
-
+- May 2021: 
+- April 2021:
 -->

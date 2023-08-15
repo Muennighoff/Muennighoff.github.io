@@ -13,7 +13,7 @@ Hey! I'm a research engineer working on **large language models**. I did my bach
 
 I'm interested in creating better, more general language models. To do so, I've had the chance to work with amazing collaborators on:
 
-**(a) large language models:** Developing [data-constrained scaling laws](https://arxiv.org/abs/2305.16264), building the largest open-source models ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) & [BLOOM](https://arxiv.org/abs/2211.05100)) & large code models ([OctoPack](https://arxiv.org/abs/2308.07124), [SantaCoder](https://arxiv.org/abs/2301.03988) & [StarCoder](https://arxiv.org/abs/2305.06161))
+**(a) large language models:** Developing [data-constrained scaling laws](https://arxiv.org/abs/2305.16264), building the largest open models ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) & [BLOOM](https://arxiv.org/abs/2211.05100)) & large code models ([OctoPack](https://arxiv.org/abs/2308.07124), [StarCoder](https://arxiv.org/abs/2305.06161) & [SantaCoder](https://arxiv.org/abs/2301.03988))
 
 **(b) language embeddings:** Building the largest embedding benchmark ([MTEB](https://arxiv.org/abs/2210.07316)) & state-of-the-art retrieval models ([SGPT](https://arxiv.org/abs/2202.08904))
 

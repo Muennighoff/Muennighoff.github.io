@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an AI research engineer working on **large language models**. I did my bachelor's at [Peking University](https://en.wikipedia.org/wiki/Peking_University) & have since been in industry. I'm always interested in hearing about research opportunities. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
+I'm an AI research engineer working on **large language models**. I did my bachelor's at [Peking University](https://en.wikipedia.org/wiki/Peking_University) & have since been in industry. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
 
 My research focuses on creating better and more general language models. To do so, I've had the chance to work with amazing collaborators on:
 
@@ -19,9 +19,9 @@ My research focuses on creating better and more general language models. To do s
 
 **(c) multimodal models:** Won 2nd/3300 in Meta AI's Hateful Memes Challenge ([Blog](https://ai.facebook.com/blog/hateful-memes-challenge-winners/), [Paper](https://arxiv.org/abs/2012.07788))
 
-I love this field & am very optimistic about the future of AI ❤️ Apart from AI, I love optimizing my health (🏊, 🎾, 🏃, 🌸) & value investing.
+I love this field & am very optimistic about the future of AI ❤️ Apart from AI, I am very interested in health (🏊, 🎾, 🏃, 🌸).
 
-Feel free to reach out :)
+Feel free to reach out :) I'm especially interested in hearing about possible research collaborations & PhD opportunities.
 
 
 <!-- News

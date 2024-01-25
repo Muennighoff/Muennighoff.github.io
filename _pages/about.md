@@ -21,7 +21,7 @@ My research focuses on creating better and more general language models. To do s
 
 I love this field & am very optimistic about the future of AI ❤️ Apart from AI, I am very interested in health (🏊, 🎾, 🏃, 🌸).
 
-Feel free to reach out :) I'm especially interested in hearing about possible research collaborations & PhD opportunities.
+Feel free to reach out, I'm especially interested in hearing about possible research collaborations :)
 
 
 <!-- News

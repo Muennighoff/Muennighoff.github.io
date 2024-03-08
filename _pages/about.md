@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an AI research engineer working on **large language models**. I did my bachelor's at [Peking University](https://en.wikipedia.org/wiki/Peking_University) & have since been in industry. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
+I'm an AI research engineer working on **large language models** at Contextual AI. I did my bachelor's at [Peking University](https://en.wikipedia.org/wiki/Peking_University) & have since been in industry. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
 
 My research focuses on creating better and more general language models. To do so, I've had the chance to work with amazing collaborators on:
 

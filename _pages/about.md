@@ -15,7 +15,7 @@ My research focuses on creating better and more general language models. To do s
 
 **(a) large language models:** Developing [data-constrained scaling laws](https://arxiv.org/abs/2305.16264), building the largest open models ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786) & [BLOOM](https://arxiv.org/abs/2211.05100)) & large code models ([OctoPack](https://arxiv.org/abs/2308.07124), [StarCoder](https://arxiv.org/abs/2305.06161) & [SantaCoder](https://arxiv.org/abs/2301.03988))
 
-**(b) language embeddings:** Building the largest embedding benchmark ([MTEB](https://arxiv.org/abs/2210.07316)) & state-of-the-art retrieval models ([SGPT](https://arxiv.org/abs/2202.08904))
+**(b) language embeddings:** Building the largest embedding benchmark ([MTEB](https://arxiv.org/abs/2210.07316)) & state-of-the-art retrieval models ([GRIT](https://arxiv.org/abs/2402.09906) & [SGPT](https://arxiv.org/abs/2202.08904))
 
 **(c) multimodal models:** Won 2nd/3300 in Meta AI's Hateful Memes Challenge ([Blog](https://ai.facebook.com/blog/hateful-memes-challenge-winners/), [Paper](https://arxiv.org/abs/2012.07788))
 

@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I research **large language models (LLMs)** at Contextual AI & after September as a PhD student at Stanford. I did my bachelor's at Peking University. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
+I research **large language models (LLMs)** at Contextual AI & starting in September as a PhD student at Stanford. I did my bachelor's at Peking University. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
 
-My research focuses on advancing LLM capabilities, where I've had the chance to work with great collaborators on:
+My research focuses on making LLMs more useful. I'm grateful to have worked with amazing collaborators on:
 
-**🧙🏻‍♂️ Scaling:** Scaling up LLMs is critical to improve them. I study how it works ([data-constrained scaling laws](https://arxiv.org/abs/2305.16264)) & apply it to create open LLMs ([OLMo](https://arxiv.org/abs/2402.00838), [StarCoder](https://arxiv.org/abs/2305.06161), [BLOOM](https://arxiv.org/abs/2211.05100)).
+**🧙🏻‍♂️ Scaling:** Scaling up LLMs is critical to improve them. I research how it works ([data-constrained scaling laws](https://arxiv.org/abs/2305.16264)) & apply it to create open LLMs ([OLMo](https://arxiv.org/abs/2402.00838), [StarCoder](https://arxiv.org/abs/2305.06161), [BLOOM](https://arxiv.org/abs/2211.05100)).
 
-**🫡 Alignment/Instruction-following:** Models need to follow instructions to be truly useful. I study improving it e.g. multilingual ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786)), coding ([OctoPack](https://arxiv.org/abs/2308.07124)), embedding ([GRIT](https://arxiv.org/abs/2402.09906)).
+**🫡 Alignment/Instruction-following:** Models need to follow instructions to be truly useful. I research improving it, e.g. multilingual ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786)), coding ([OctoPack](https://arxiv.org/abs/2308.07124)), embedding ([GRIT](https://arxiv.org/abs/2402.09906)).
 
 **🤔 Other:** I've also had the chance to work on the largest text embedding benchmark ([MTEB](https://arxiv.org/abs/2210.07316)) & build multimodal models winning 2nd in Meta's Hateful Memes Challenge ([Blog](https://ai.facebook.com/blog/hateful-memes-challenge-winners/)).
 

@@ -13,7 +13,7 @@ I research **large language models (LLMs)** at Contextual AI & starting in Septe
 
 My research focuses on making LLMs more useful. I'm grateful to have worked with amazing collaborators on:
 
-**🧙🏻‍♂️ Scaling:** Scaling up LLMs is critical to improve them. I research how it works ([data-constrained scaling laws](https://arxiv.org/abs/2305.16264)) & apply it to create open LLMs ([OLMo](https://arxiv.org/abs/2402.00838), [StarCoder](https://arxiv.org/abs/2305.06161), [BLOOM](https://arxiv.org/abs/2211.05100)).
+**🧙🏻‍♂️ Scaling:** Scaling up LLMs is critical to improve them. I research how it works ([data-constrained scaling laws](https://arxiv.org/abs/2305.16264)) & apply it to create open LLMs ([OLMoE](https://arxiv.org/abs/2409.02060), [StarCoder](https://arxiv.org/abs/2305.06161), [BLOOM](https://arxiv.org/abs/2211.05100)).
 
 **🫡 Alignment/Instruction-following:** Models need to follow instructions to be truly useful. I research improving it, e.g. multilingual ([BLOOMZ/mT0](https://arxiv.org/abs/2211.01786)), coding ([OctoPack](https://arxiv.org/abs/2308.07124)), embedding ([GRIT](https://arxiv.org/abs/2402.09906)).
 

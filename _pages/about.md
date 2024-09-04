@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I research **large language models (LLMs)** at Contextual AI & starting in September as a PhD student at Stanford. I did my bachelor's at Peking University. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
+I research **large language models (LLMs)** at Contextual AI & Ai2 and starting in September as a PhD student at Stanford. I did my bachelor's at Peking University. I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
 
 My research focuses on making LLMs more useful. I'm grateful to have worked with amazing collaborators on:
 

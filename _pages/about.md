@@ -13,7 +13,7 @@ I'm a 1st year PhD at Stanford currently rotating with [Percy Liang](https://cs.
 
 Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas that I think could be impactful & we could work on together :)
 
-#### Selected publications (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all)
+### Selected publications (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all)
 
 * [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)  
 **Niklas Muennighoff**, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Jacob Morrison, Sewon Min, Weijia Shi, Pete Walsh, Oyvind Tafjord, Nathan Lambert, Yuling Gu, Shane Arora, Akshita Bhagia, Dustin Schwenk, David Wadden, Alexander Wettig, Binyuan Hui, Tim Dettmers, Douwe Kiela, Ali Farhadi, Noah A. Smith, Pang Wei Koh, Amanpreet Singh, Hannaneh Hajishirzi  
@@ -39,7 +39,7 @@ ACL 2023, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/mo
 **Niklas Muennighoff**, Nouamane Tazi, Loïc Magne, Nils Reimers  
 EACL 2023, [>1M software downloads](https://www.pepy.tech/projects/mteb)
 
-#### Selected honors
+### Selected honors
 
 - 2024: Stanford School of Engineering Fellowship; ACL [Best Theme Paper Award](https://x.com/aclmeeting/status/1823664612677705762), [Best Paper Award](https://x.com/aclmeeting/status/1823664612207743110), [Best Resource Paper Award](https://x.com/aclmeeting/status/1823664612577051026); [ICLR AGI Workshop Best Paper Award](https://x.com/chrmanning/status/1789197942403813870)
 - 2022: [NeurIPS Outstanding Paper Runner-Up Award](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
@@ -47,7 +47,7 @@ EACL 2023, [>1M software downloads](https://www.pepy.tech/projects/mteb)
 - 2019: JLPTN1
 - 2018-2022: Peking University Full Scholarship
 
-#### Misc unsorted
+### Misc unsorted
 
 - Apart from AI, I'm very interested in health (🏊🎾🏃🌸)
 - I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅

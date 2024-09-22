@@ -9,35 +9,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 1st year PhD at [Stanford](https://www.stanford.edu/) currently rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I research making large language models (LLMs) better/more useful. I did my Bachelor's at [Peking University](https://english.pku.edu.cn/) & have spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & others.
+I'm a 1st year PhD at Stanford researching large language models (LLMs) & currently rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I did my Bachelor's at Peking University & have spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & others.
 
-Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas that I think could be impactful & we can work on together :)
+Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas I think could be impactful & we could work on together :)
 
-### Selected publications (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all)
+### Research
 
-* [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060)  
-**Niklas Muennighoff**, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Jacob Morrison, Sewon Min, Weijia Shi, Pete Walsh, Oyvind Tafjord, Nathan Lambert, Yuling Gu, Shane Arora, Akshita Bhagia, Dustin Schwenk, David Wadden, Alexander Wettig, Binyuan Hui, Tim Dettmers, Douwe Kiela, Ali Farhadi, Noah A. Smith, Pang Wei Koh, Amanpreet Singh, Hannaneh Hajishirzi  
-arXiv 2024
-
-* [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906)  
-**Niklas Muennighoff**, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, Douwe Kiela  
-ICLR 2024 AGI Workshop, Best Paper Award
-
-* [Octopack: Instruction tuning code large language models](https://arxiv.org/abs/2308.07124)  
-**Niklas Muennighoff**, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre  
-ICLR 2024, Spotlight
-
-* [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)  
-**Niklas Muennighoff**, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, Colin Raffel  
-NeurIPS 2024, Oral & [Outstanding Paper Runner-Up Award](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
-
-* [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786)  
-**Niklas Muennighoff**, Thomas Wang, Lintang Sutawika, Adam Roberts, Stella Biderman, Teven Le Scao, M Saiful Bari, Sheng Shen, Zheng-Xin Yong, Hailey Schoelkopf, Xiangru Tang, Dragomir Radev, Alham Fikri Aji, Khalid Almubarak, Samuel Albanie, Zaid Alyafeai, Albert Webson, Edward Raff, Colin Raffel  
-ACL 2023, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/)
-
-* [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316)  
-**Niklas Muennighoff**, Nouamane Tazi, Loïc Magne, Nils Reimers  
-EACL 2023, [>1M software downloads](https://www.pepy.tech/projects/mteb)
+I research making LLMs more useful, e.g. by improving their capabilities. Below are areas I've been working on with amazing collaborators & some papers I've had the chance of being involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all papers):
+- **LLM pretraining:** I want to better understand how models scale & help us build more capable base models
+  - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2024, Oral & Outstanding Paper Runner-Up Award)
+  - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) & [OLMo](https://arxiv.org/abs/2402.00838) (ACL 2024, Best Theme Paper Award)
+- **LLM alignment/instruction tuning:** Models need to precisely follow instructions to be truly useful
+  - [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786) (ACL 2022, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/))
+  - [Octopack: Instruction tuning code large language models](https://arxiv.org/abs/2308.07124) (ICLR 2024, Spotlight)
+- **Embeddings/Retrieval:** For LLMs to be useful, they often need to rely on search/retrieval, usually powered by embeddings
+  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [>1M software downloads](https://www.pepy.tech/projects/mteb))
+  - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper Award)
 
 ### Selected honors
 

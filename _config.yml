@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Niklas Muennighoff"
 title_separator          : "-"
 name                     : &name "Niklas Muennighoff"
-description              : &description "personal description"
+description              : &description "Personal website"
 url                      : https://Muennighoff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Muennighoff/Muennighoff.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Niklas Muennighoff"
   avatar           : "profile.png"
-  bio              : "Research Engineer"
+  bio              : ""
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

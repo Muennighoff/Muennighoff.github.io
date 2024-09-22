@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 1st year PhD at Stanford currently rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I research making large language models (LLMs) better/more useful. I did my Bachelor's at Peking University & have spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & others.
+I'm a 1st year PhD at [Stanford](https://www.stanford.edu/) currently rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I research making large language models (LLMs) better/more useful. I did my Bachelor's at [Peking University](https://english.pku.edu.cn/) & have spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & others.
 
 Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas that I think could be impactful & we can work on together :)
 

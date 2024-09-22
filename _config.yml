@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Niklas Muennighoff"
   avatar           : "profile.png"
-  bio              : ""
+  bio              :
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

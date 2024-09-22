@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm researching large language models (LLMs) as a 1st year PhD at Stanford rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I did my Bachelor's at Peking University & have spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & others.
+I research large language models (LLMs) as a 1st year PhD at Stanford rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I did my Bachelor's at Peking University & spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & co.
 
-Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas I think could be impactful & we could work on together :)
+Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas I think could be impactful & we can work on together :)
 
 ### Research
 
-I research making LLMs more useful, e.g. by improving their capabilities. Below are areas I've been working on with amazing collaborators & some papers I've had the chance of being involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all papers):
+I research making LLMs more useful, e.g. by improving their capabilities. Below are some areas I've been working on with amazing collaborators & some papers I've had the chance to be involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all papers):
 - **LLM pretraining:** I want to better understand how models scale & help us build more capable base models
   - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2024, Oral & Outstanding Paper Runner-Up Award)
   - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) & [OLMo](https://arxiv.org/abs/2402.00838) (ACL 2024, Best Theme Paper Award)

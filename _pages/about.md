@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I research large language models (LLMs) as a 1st year PhD at [Stanford](https://www.stanford.edu/) rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/) & spent time at [Contextual AI](https://contextual.ai/)/[Ai2](https://allenai.org/)/[Hugging Face](https://huggingface.co/) & co.
+I research large language models (LLMs) as a 1st year PhD at [Stanford](https://www.stanford.edu/) rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I'm fortunate to be collaborating with [Contextual AI](https://contextual.ai/) & [Ai2](https://allenai.org/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
 
 Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas I think could be impactful & we can work on together :)
 
@@ -38,4 +38,4 @@ I research making LLMs more useful, e.g. by improving their capabilities. Below 
 
 - Apart from AI, I'm very interested in health (🏊🎾🏃🌸)
 - I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters so I forgot much of the last two 😅
-- During middle & high school I worked as a voice-over artist dubbing German voices for Peter Pan (Disney), Pokemon (Pokemon Company), Game Of Thrones (HBO), Dracula (NBC) & others ([sample](https://www.audible.de/pd/Gortimer-Gibbon-Mein-Leben-in-der-Normal-Street-Die-komplette-1-Staffel-Hoerbuch/B01LY8AAZP?overrideBaseCountry=true&ipRedirectOverride=true&ref_pageloadid=not_applicable&pageLoadId=pCyLZcePVMNX3kCH&creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61)) 😁
+- As a kid I worked as a voice-over artist dubbing German voices for Peter Pan (Disney), Pokemon (Pokemon Company), Game Of Thrones (HBO), Dracula (NBC) & others ([sample](https://www.audible.de/pd/Gortimer-Gibbon-Mein-Leben-in-der-Normal-Street-Die-komplette-1-Staffel-Hoerbuch/B01LY8AAZP?overrideBaseCountry=true&ipRedirectOverride=true&ref_pageloadid=not_applicable&pageLoadId=pCyLZcePVMNX3kCH&creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61)) 😁

@@ -23,14 +23,14 @@ I research making LLMs more useful, e.g. by improving their capabilities. Below 
   - [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786) (ACL 2022, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/))
   - [Octopack: Instruction tuning code large language models](https://arxiv.org/abs/2308.07124) (ICLR 2024, Spotlight)
 - **Embeddings/Retrieval:** For LLMs to be useful, they often need to rely on search/retrieval, usually powered by embeddings
-  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [>1M software downloads](https://www.pepy.tech/projects/mteb))
+  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [>1M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
   - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper Award)
 
 ### Selected honors
 
 - 2024: Stanford School of Engineering Fellowship; ACL [Best Theme Paper Award](https://x.com/aclmeeting/status/1823664612677705762), [Best Paper Award](https://x.com/aclmeeting/status/1823664612207743110), [Best Resource Paper Award](https://x.com/aclmeeting/status/1823664612577051026); [ICLR AGI Workshop Best Paper Award](https://x.com/chrmanning/status/1789197942403813870)
 - 2022: [NeurIPS Outstanding Paper Runner-Up Award](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
-- 2020: [Meta AI Hateful Memes Challenge, 2nd place / 3300](https://ai.meta.com/blog/hateful-memes-challenge-winners/)
+- 2020: [Meta AI Hateful Memes Challenge, 2nd place/3300+](https://ai.meta.com/blog/hateful-memes-challenge-winners/)
 - 2019: JLPTN1
 - 2018-2022: Peking University Full Scholarship
 

@@ -17,7 +17,7 @@ Feel free to reach out, especially for doing research together. I’m also happy
 
 I research making LLMs more useful, e.g. by improving their capabilities. Below are some areas I've been working on with amazing collaborators & some papers I've had the chance to be involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all papers):
 - **LLM pretraining:** I want to better understand how models scale & help us build more capable base models
-  - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2024, Oral & Outstanding Paper Runner-Up Award)
+  - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2023, Oral & Outstanding Paper Runner-Up Award)
   - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) & [OLMo](https://arxiv.org/abs/2402.00838) (ACL 2024, Best Theme Paper Award)
 - **LLM alignment/instruction tuning:** Models need to precisely follow instructions to be truly useful
   - [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786) (ACL 2022, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/))

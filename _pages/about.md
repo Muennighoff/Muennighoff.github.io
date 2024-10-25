@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I research large language models (LLMs) as a 1st year PhD at [Stanford](https://www.stanford.edu/) rotating with [Percy Liang](https://cs.stanford.edu/~pliang/) & [Tatsunori Hashimoto](https://thashim.github.io/). I'm fortunate to be collaborating with [Contextual AI](https://contextual.ai/) & [Ai2](https://allenai.org/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
+I research large language models (LLMs) as a 1st year PhD at [Stanford](https://www.stanford.edu/). I'm fortunate to be collaborating with [Contextual AI](https://contextual.ai/) & [Ai2](https://allenai.org/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
 
 Feel free to reach out, especially for doing research together. I’m also happy to advise self-motivated people on a research project - I have many ideas I think could be impactful & we can work on together :)
 

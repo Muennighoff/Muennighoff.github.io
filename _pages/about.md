@@ -11,7 +11,7 @@ redirect_from:
 
 I research large language models (LLMs) as a PhD student at [Stanford](https://www.stanford.edu/). I'm fortunate to be collaborating with [Contextual AI](https://contextual.ai/) & [Ai2](https://allenai.org/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
 
-If you want to work/research with me, I recommend contributing to [MTEB](https://github.com/embeddings-benchmark/mteb/issues). We are building the go-to place for everything related to embeddings with 200K active monthly users on [our leaderboard](https://huggingface.co/spaces/mteb/leaderboard) and regular publications you can co-author.
+If you want to work/research with me, I recommend contributing to [MTEB](https://github.com/embeddings-benchmark/mteb/issues). We are a community building the go-to place for everything related to embeddings with 200K active monthly users on [our leaderboard](https://huggingface.co/spaces/mteb/leaderboard) and regular publications you can co-author.
 
 If you have questions about any papers I've co-authored, please open a GitHub issue on the respective repository :)
 

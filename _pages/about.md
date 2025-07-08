@@ -18,25 +18,26 @@ If you have questions about any papers I've co-authored, please open a GitHub is
 ### Research
 
 I research making LLMs more useful, e.g., by improving their capabilities. Below are some areas I've been working on with amazing collaborators & some papers I've had the chance to be involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all papers):
-- **LLM pretraining:** I want to better understand how models scale & help us build more capable base models
-  - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2023, Oral & Outstanding Paper Runner-Up Award)
+- **LLM pretraining:** I want to understand better how models scale & help us build more capable base models
+  - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2023, Outstanding Paper Runner-Up Award)
   - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) & [OLMo](https://arxiv.org/abs/2402.00838) (ACL 2024, Best Theme Paper Award)
-- **LLM alignment/instruction tuning:** Models need to precisely follow instructions to be truly useful
+- **LLM posttraining:** Models need to follow instructions, reason, etc, to be truly useful
   - [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786) (ACL 2022, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/))
-  - [Octopack: Instruction tuning code large language models](https://arxiv.org/abs/2308.07124) (ICLR 2024, Spotlight)
+  - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (ICLR 2025 Reasoning Workshop, Best Paper Award)
 - **Embeddings/Retrieval:** For LLMs to be useful, they often need to rely on search/retrieval, usually powered by embeddings
-  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [>2M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
+  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [3M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
   - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper Award)
 
-### Selected honors
+### Select honors
 
+- 2025: [Knight-Hennessy Scholarship](https://knight-hennessy.stanford.edu/people/niklas-muennighoff), ICLR 2025 Reasoning and Planning Workshop Best Paper Award, [CVPR 2025 Best Paper Honorable Mention](https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press)
 - 2024: Stanford School of Engineering Fellowship; [ACL Best Theme Paper Award, Best Paper Award, Best Resource Paper Award](https://2024.aclweb.org/program/best_papers/); [ICLR AGI Workshop Best Paper Award](https://agiworkshop.github.io/2024/schedule/)
 - 2023: [NeurIPS Outstanding Paper Runner-Up Award](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
 - 2020: [Meta AI Hateful Memes Challenge, 2nd place/3300+](https://ai.meta.com/blog/hateful-memes-challenge-winners/)
 - 2019: JLPTN1
 - 2018-2022: Peking University Full Scholarship
 
-### Misc unsorted
+### Misc
 
 - Apart from AI, I'm very interested in health (🏊🎾🏃🌸)
 - I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters, so I forgot much of the last two 😅

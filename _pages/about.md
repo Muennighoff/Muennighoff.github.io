@@ -30,7 +30,7 @@ I research making LLMs more useful, e.g., by improving their capabilities. Below
 
 ### Select honors
 
-- 2025: [Knight-Hennessy Scholarship](https://knight-hennessy.stanford.edu/people/niklas-muennighoff), ICLR 2025 Reasoning and Planning Workshop Best Paper Award, [CVPR 2025 Best Paper Honorable Mention](https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press)
+- 2025: [Knight-Hennessy Scholarship](https://knight-hennessy.stanford.edu/people/niklas-muennighoff), ICLR Reasoning and Planning Workshop Best Paper Award, [CVPR Best Paper Honorable Mention](https://cvpr.thecvf.com/Conferences/2025/News/Awards_Press)
 - 2024: Stanford School of Engineering Fellowship; [ACL Best Theme Paper Award, Best Paper Award, Best Resource Paper Award](https://2024.aclweb.org/program/best_papers/); [ICLR AGI Workshop Best Paper Award](https://agiworkshop.github.io/2024/schedule/)
 - 2023: [NeurIPS Outstanding Paper Runner-Up Award](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
 - 2020: [Meta AI Hateful Memes Challenge, 2nd place/3300+](https://ai.meta.com/blog/hateful-memes-challenge-winners/)

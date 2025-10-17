@@ -39,6 +39,6 @@ I research making LLMs more useful, e.g., by improving their capabilities. Below
 
 ### Misc
 
-- Apart from AI, I'm very interested in health (🏊🎾🏃🌸)
+- Apart from AI, I'm very interested in health (🏊🎾🏐🏃🌸)
 - I've worked in Chinese, English, Japanese, French & German, but I don't have enough parameters, so I forgot much of the last two 😅
 - As a kid I worked as a voice-over artist dubbing German voices for Peter Pan (Disney), Pokemon, Game Of Thrones (HBO), Dracula (NBC) & others ([sample](https://www.audible.de/pd/Gortimer-Gibbon-Mein-Leben-in-der-Normal-Street-Die-komplette-1-Staffel-Hoerbuch/B01LY8AAZP?overrideBaseCountry=true&ipRedirectOverride=true&ref_pageloadid=not_applicable&pageLoadId=pCyLZcePVMNX3kCH&creativeId=292d6343-f11b-4bbe-a8a5-d4b7272abf61)) 😁

@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I research large language models (LLMs) as a PhD student at [Stanford](https://www.stanford.edu/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
+I research AI/LLMs as a PhD student at [Stanford](https://www.stanford.edu/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
 
 For working/researching together, I recommend contributing to [MTEB](https://github.com/embeddings-benchmark/mteb/issues). We're a community building the go-to place for everything embeddings with 200K active monthly users on [our leaderboard](https://huggingface.co/spaces/mteb/leaderboard) & regular publications you can co-author.
 
@@ -23,10 +23,10 @@ I research making LLMs more useful/capable. Below are some areas I've been worki
   - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) (ICLR 2025 Oral)
 - **LLM posttraining:** To make models follow instructions, reason, etc
   - [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786) (ACL 2022, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/))
-  - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (ICLR 2025 Reasoning Workshop, Best Paper)
+  - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (ICLR 2025 Reasoning Workshop, Best Paper Award)
 - **Embeddings/Retrieval:** For LLMs to be useful, they often need to rely on search/retrieval, usually powered by embeddings
-  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [5M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
-  - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper)
+  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [6M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
+  - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper Award)
 
 ### Select honors
 

@@ -11,22 +11,22 @@ redirect_from:
 
 I research large language models (LLMs) as a PhD student at [Stanford](https://www.stanford.edu/). I did my Bachelor's at [Peking University](https://english.pku.edu.cn/).
 
-If you want to work/research with me, I recommend contributing to [MTEB](https://github.com/embeddings-benchmark/mteb/issues). We are a community building the go-to place for everything related to embeddings with 200K active monthly users on [our leaderboard](https://huggingface.co/spaces/mteb/leaderboard) and regular publications you can co-author.
+For working/researching together, I recommend contributing to [MTEB](https://github.com/embeddings-benchmark/mteb/issues). We're a community building the go-to place for everything embeddings with 200K active monthly users on [our leaderboard](https://huggingface.co/spaces/mteb/leaderboard) & regular publications you can co-author.
 
-If you have questions about any papers I've co-authored, please open a GitHub issue on the respective repository :)
+For questions about anything I've co-authored, please open a GitHub issue on its repository :)
 
 ### Research
 
-I research making LLMs more useful, e.g., by improving their capabilities. Below are some areas I've been working on with amazing collaborators & some papers I've had the chance to be involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for all papers):
-- **LLM pretraining:** I want to understand better how models scale & help us build more capable base models
+I research making LLMs more useful/capable. Below are some areas I've been working on with amazing collaborators & some papers I've had the chance to be involved in (see [Google Scholar](https://scholar.google.com/citations?user=Me0IoRMAAAAJ&hl=en) for more):
+- **LLM pretraining:** To build more capable base models
   - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264) (NeurIPS 2023, Outstanding Paper Runner-Up Award)
-  - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) & [OLMo](https://arxiv.org/abs/2402.00838) (ACL 2024, Best Theme Paper Award)
-- **LLM posttraining:** Models need to follow instructions, reason, etc, to be truly useful
+  - [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/abs/2409.02060) (ICLR 2025 Oral)
+- **LLM posttraining:** To make models follow instructions, reason, etc
   - [Crosslingual generalization through multitask finetuning](https://arxiv.org/abs/2211.01786) (ACL 2022, [Most influential ACL paper #2](https://www.paperdigest.org/2024/05/most-influential-acl-papers-2024-05/))
-  - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (ICLR 2025 Reasoning Workshop, Best Paper Award)
+  - [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393) (ICLR 2025 Reasoning Workshop, Best Paper)
 - **Embeddings/Retrieval:** For LLMs to be useful, they often need to rely on search/retrieval, usually powered by embeddings
-  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [3M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
-  - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper Award)
+  - [MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316) (EACL 2022, [5M software downloads](https://www.pepy.tech/projects/mteb?versions=*))
+  - [Generative Representational Instruction Tuning](https://arxiv.org/abs/2402.09906) (ICLR 2024 AGI Workshop, Best Paper)
 
 ### Select honors
 
